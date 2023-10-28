@@ -29,7 +29,8 @@ The following are the app features:
 # Dashboard Screen
 - Use the tab button to get a list of dog images or a random dog image
 - This screenshot shows a list of *airedale* dog breed 
-  ![IMG_6953](https://github.com/funmi-cod/oh_dog_app/assets/62282706/6969b2b4-e0e8-40b2-80b6-f72e3e779e7e)
+  ![IMG_6950](https://github.com/funmi-cod/oh_dog_app/assets/62282706/17f45cf4-c6cf-4b0d-b89d-3ae7d099f751)
+
 
 - This screenshot shows a list of *english* subbreed of *hound* dog breed
   ![IMG_6951](https://github.com/funmi-cod/oh_dog_app/assets/62282706/5270d5a2-0f14-49b2-874e-e718339b9bfd)
